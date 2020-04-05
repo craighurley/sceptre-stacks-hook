@@ -1,0 +1,9 @@
+.DS_Store
+.python-version
+.vscode/
+*.log
+/.Trash/
+/tmp/*
+**/__pycache__/
+# overrides
+!.gitkeep
